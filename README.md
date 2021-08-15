@@ -1,2 +1,2 @@
 # Hera
-Game Hack/Trainer Console Skeleton
+Game Hack/Trainer Menu Toolkit
